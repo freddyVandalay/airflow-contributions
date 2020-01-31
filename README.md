@@ -1,2 +1,2 @@
 # airflow_add_and_mod
-Additions and modifications for airflow.
+Additions to and modifications of airflow.
